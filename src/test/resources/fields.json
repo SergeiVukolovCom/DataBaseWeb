@@ -1,0 +1,6 @@
+{ "fieldToken": "token",
+  "fieldVariant": "variant"
+}
+{ "hostWeb": "8080",
+  "hostDb": "3306"
+}

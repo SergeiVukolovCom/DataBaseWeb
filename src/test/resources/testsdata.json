@@ -1,0 +1,13 @@
+{ "url": "http://%s:%s@localhost:%s/web",
+  "apiUrl": "http://localhost:%s/api/",
+  "dbLink": "jdbc:mysql://localhost:%s/%s",
+  "version": "1",
+  "textProjects": "projects",
+  "projectName": "Nexage",
+  "success": "saved",
+  "methodToken": "token/get",
+  "contentType": "image/png",
+  "datePattern": "yyyy-MM-dd HH:mm:ss.S",
+  "nameDataBase": "union_reporting",
+  "wordAlert": "alert"
+}
